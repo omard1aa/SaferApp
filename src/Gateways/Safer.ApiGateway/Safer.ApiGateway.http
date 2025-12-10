@@ -1,0 +1,6 @@
+@Safer.ApiGateway_HostAddress = http://localhost:5087
+
+GET {{Safer.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

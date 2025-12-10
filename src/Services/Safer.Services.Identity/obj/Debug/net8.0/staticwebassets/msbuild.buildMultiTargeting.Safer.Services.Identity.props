@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Safer.Services.Identity.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gyqjkyedkhPdVKtSU3K0WIa/GUOR08a9gIqLIubJUI8=",
+  "Source": "Safer.ApiGateway",
+  "BasePath": "_content/Safer.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

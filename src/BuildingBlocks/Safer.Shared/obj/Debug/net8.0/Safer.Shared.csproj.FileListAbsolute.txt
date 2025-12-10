@@ -1,0 +1,12 @@
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/bin/Debug/net8.0/Safer.Shared.deps.json
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/bin/Debug/net8.0/Safer.Shared.dll
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/bin/Debug/net8.0/Safer.Shared.pdb
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.csproj.AssemblyReference.cache
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.AssemblyInfoInputs.cache
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.AssemblyInfo.cs
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.csproj.CoreCompileInputs.cache
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.dll
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/refint/Safer.Shared.dll
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/Safer.Shared.pdb
+/Users/omardiaa/Software Development/Self-Learning/safer/src/BuildingBlocks/Safer.Shared/obj/Debug/net8.0/ref/Safer.Shared.dll
