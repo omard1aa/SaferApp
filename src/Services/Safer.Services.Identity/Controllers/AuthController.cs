@@ -1,7 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Safer.Services.Identity.Application.Features.Auth.Commands.RegisterUser;
-
+using Safer.Services.Identity.Application.Features.Auth.Commands.Login;
 namespace Safer.Services.Identity.Controllers;
 
 [Route("api/[controller]")]
@@ -20,5 +20,12 @@ public class AuthController : ControllerBase
     {
         var userId = await _mediator.Send(command);
         return Ok(new { UserId = userId });
+    }
+
+    [HttpPost("login")]
+    public async Task<IActionResult> Login([FromBody] LoginCommand command)
+    {
+        var token = await _mediator.Send(command);
+        return Ok(new { Token = token });
     }
 }

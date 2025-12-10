@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using Safer.Services.Identity.Domain.Models;
 using Safer.Services.Identity.Infrastructure.Persistence;
 using Safer.Services.Identity.Infrastructure;
+using Safer.Services.Identity.Application.Common.Interfaces;
+using Safer.Services.Identity.Infrastructure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,8 @@ builder.Services.AddDbContext<IdentityServiceDbContext>(options =>
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<IdentityServiceDbContext>()
     .AddDefaultTokenProviders();
+
+builder.Services.AddScoped<ITokenGenerator, TokenGenerator>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

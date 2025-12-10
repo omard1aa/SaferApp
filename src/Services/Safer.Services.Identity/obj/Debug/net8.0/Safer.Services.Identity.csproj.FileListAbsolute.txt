@@ -115,3 +115,5 @@
 /Users/omardiaa/Software Development/Self-Learning/safer/src/Services/Safer.Services.Identity/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/omardiaa/Software Development/Self-Learning/safer/src/Services/Safer.Services.Identity/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/omardiaa/Software Development/Self-Learning/safer/src/Services/Safer.Services.Identity/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/omardiaa/Software Development/Self-Learning/safer/src/Services/Safer.Services.Identity/obj/Debug/net8.0/Safer.Services.Identity.sourcelink.json
+/Users/omardiaa/Software Development/Self-Learning/safer/src/Services/Safer.Services.Identity/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
